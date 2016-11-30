@@ -1,0 +1,13 @@
+/* Session 3
+ * 	Assignment 3: The result of a class that defines integer and string variables without initializing them.
+ * 
+ * Answer:
+ * 	Expected Output: d. The program prints pnt is null 0 0
+ * 
+ * Explanation:
+ *  Instance variables, as in the example code, default to a predefined default value.
+ *  Local variables must be assigned a value before compiling.
+ *
+ * 	The String type is an object so its default value is null and not an empty string ("").
+ *  The integer default value is 0.
+ */
